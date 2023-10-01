@@ -1,12 +1,14 @@
 ![Connectify Banner](https://github.com/abhi03ruchi/Pryde/assets/105661636/34c87c7b-9c71-4361-8717-12ff5deadd74)
 
-## Introduction
+#  <a href="https://6504be58e9886221c8e70af4--mellow-frangipane-ab4448.netlify.app/">Connectify</a>
 <table style="border: none;">
   <tr>
     <td>Connectify is an ultimate team-building and collaboration platform designed to empower women in the tech community. With Connectify, you can seamlessly connect with like-minded individuals, build diverse teams, and amplify your impact in hackathons. </td>
   </tr>
 </table>
+## Visit the site
 
+To view the website, click [here](https://65153b82692f1e6bcef7819d--musical-cranachan-50693e.netlify.app/).<br>
 
 ## What Does It Do ? 
 Swipe left or right to show interest in potential teammates, effortlessly forming alliances that foster creativity, innovation, and inclusivity. Showcase your unique skills and experiences on your personalized portfolio page, highlighting your past projects, social media links, and involvement as a speaker, organizer, or volunteer in community events. Let your achievements shine, demonstrating the incredible talent you bring to the table.
