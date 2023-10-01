@@ -6,6 +6,7 @@
     <td>Connectify is an ultimate team-building and collaboration platform designed to empower women in the tech community. With Connectify, you can seamlessly connect with like-minded individuals, build diverse teams, and amplify your impact in hackathons. </td>
   </tr>
 </table>
+
 # Visit the site
 
 To view the website, click [here](https://65153b82692f1e6bcef7819d--musical-cranachan-50693e.netlify.app/).<br>
