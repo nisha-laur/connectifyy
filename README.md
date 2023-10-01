@@ -61,6 +61,4 @@ Stay organized and focused with the user dashboard, where you can manage your ha
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-<h1 align='center'>Contributors</h1>
-<img width="1440" alt="Screenshot 2023-06-25 at 7 02 49 PM" src="https://github.com/abhi03ruchi/Pryde/assets/105661636/4460f0b8-33e2-41f7-abe4-28f4211d226f">
 
